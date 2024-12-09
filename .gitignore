@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/leetcodes/leetcode_1/obj
+/leetcodes/.vs/leetcodes
+/leetcodes/leetcode_1/bin/Debug/net8.0
+/leetcodes/.vs/ProjectEvaluation
+/leetcodes/testkhoagithub
+/leetcodes/testkhoagithub.pub
